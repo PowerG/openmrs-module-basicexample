@@ -1,0 +1,1 @@
+this is a sample project, using maven. module one :)
